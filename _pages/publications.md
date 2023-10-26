@@ -11,9 +11,7 @@ author_profile: true
 
 
 
-<div align=center><img src="https://github.com/yewenC/academicpages.github.io/blob/master/images/image-alignment-580x300.jpg?raw=true" width="600"></div>
-
-
+<div align=center><img src="https://github.com/yewenC/academicpages.github.io/blob/master/images/cyw.jpg?raw=true" width="600"></div>
 
 <br>
 <p align="center">
