@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 
-  < img src="/images/profile.png" alt="个人图片">
+{% include image.html url="/images/profile.png" width=300 align="center" %}
 
 
 
