@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 <div align="center">
-  < img src="//images/profile.png" alt="个人图片">
+  < img src="\images\profile.png" alt="个人图片">
 </div>
 
 
