@@ -31,7 +31,7 @@ author_profile: true
 
 <div class="container">
   <div class="col-30">
-    < img src="https://github.com/yewenC/academicpages.github.io/blob/master/images/cyw.jpg?raw=true">
+   <div align=center><img src="https://github.com/yewenC/academicpages.github.io/blob/master/images/cyw.jpg?raw=true" width="300"></div>
   </div>
   <div class="col-70">
     <p>右侧文字信息部分：<br>
