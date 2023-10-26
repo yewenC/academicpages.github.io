@@ -34,10 +34,11 @@ author_profile: true
    <div align=center><img src="https://github.com/yewenC/academicpages.github.io/blob/master/images/cyw.jpg?raw=true" width="300"></div>
   </div>
   <div class="col-70">
-    <p>右侧文字信息部分：<br>
-    - 信息1<br>
-    - 信息2<br>
-    - 信息3</p >
+    <p><span style="font-size: 1.5em;">Yewen CAO</span><br>
+    _started Aug 2024_  
+    _research interests: wireless communications, signal processing, IoT_  
+    _email: 2200201101@stu.hit.edu.cn_  
+    - B.E. in Communication Engineering, Harbin Institute of Technology (Sep. 2020-June 2024)</p >
   </div>
   <div class="clearfix"></div>
 </div>
