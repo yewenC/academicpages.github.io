@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 
-![twe](D/Users/cyw.jpg)
+![twe](https://github.com/yewenC/academicpages.github.io/blob/master/images/image-alignment-580x300.jpg?raw=true)
 
 
 
