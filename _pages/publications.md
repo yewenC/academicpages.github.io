@@ -9,8 +9,9 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-![111](images/profile.png)
-
+<div align="center">
+  < img src="/images/profile.png" alt="个人图片">
+</div>
 
 
 
