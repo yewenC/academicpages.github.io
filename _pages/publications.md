@@ -10,7 +10,39 @@ author_profile: true
 {% endif %}
 
 
+<head>
+  <style>
+    .col-30 {
+      width: 30%;
+      float: left;
+    }
+    .col-70 {
+      width: 70%;
+      float: left;
+    }
+    .clearfix::after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+  </style>
+</head>
+<body>
 
+<div class="container">
+  <div class="col-30">
+    < img src="https://github.com/yewenC/academicpages.github.io/blob/master/images/cyw.jpg?raw=true">
+  </div>
+  <div class="col-70">
+    <p>右侧文字信息部分：<br>
+    - 信息1<br>
+    - 信息2<br>
+    - 信息3</p >
+  </div>
+  <div class="clearfix"></div>
+</div>
+
+</body>
 <div align=center><img src="https://github.com/yewenC/academicpages.github.io/blob/master/images/cyw.jpg?raw=true" width="300"></div>
 
 <br>
