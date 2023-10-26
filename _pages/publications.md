@@ -9,12 +9,8 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-<div align=center>
-  <br>
-  ![cyw](https://github.com/yewenC/academicpages.github.io/blob/master/images/image-alignment-580x300.jpg?raw=true)
-<br>
-</div>
-<div align=center><img src="https://img-blog.csdnimg.cn/20200725104000982.png" width="600"></div>
+
+
 <div align=center><img src="https://github.com/yewenC/academicpages.github.io/blob/master/images/image-alignment-580x300.jpg?raw=true" width="600"></div>
 
 
