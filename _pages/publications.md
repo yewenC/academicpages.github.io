@@ -10,12 +10,11 @@ author_profile: true
 {% endif %}
 
 <div align=center>
-  
+  <br>
   ![cyw](https://github.com/yewenC/academicpages.github.io/blob/master/images/image-alignment-580x300.jpg?raw=true)
-
+<br>
 </div>
 
-{% include image.html url="https://github.com/yewenC/academicpages.github.io/blob/master/images/image-alignment-580x300.jpg?raw=true" width=300 align="centre" %}
 
 
 <br>
