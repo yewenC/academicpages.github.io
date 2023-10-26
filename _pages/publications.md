@@ -35,10 +35,10 @@ author_profile: true
   </div>
   <div class="col-70">
     <p><span style="font-size: 1.5em;">Yewen CAO</span><br>
-    *started Aug 2024*<br>  
-    **research interests: wireless communications, signal processing, IoT**<br>  
-    <strong>email: 2200201101@stu.hit.edu.cn</strong><br>  
-    · B.E. in Communication Engineering, Harbin Institute of Technology (Sep. 2020-June 2024)</p >
+    started Aug 2024<br>  
+    research interests: wireless communications, signal processing, IoT<br>  
+    email: 2200201101@stu.hit.edu.cn<br>  
+    • B.E. in Communication Engineering, Harbin Institute of Technology (Sep. 2020-June 2024)</p >
   </div>
   <div class="clearfix"></div>
 </div>
