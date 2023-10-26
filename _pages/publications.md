@@ -10,8 +10,7 @@ author_profile: true
 {% endif %}
 
 
-{% include image.html url="/images/profile.png" width=300 align="center" %}
-
+![twe](D/Users/cyw.jpg)
 
 
 
