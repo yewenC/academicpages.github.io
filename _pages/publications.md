@@ -9,7 +9,7 @@ author_profile: true
 
 ![](https://github.com/yewenC/academicpages.github.io/blob/master/images/cyw.jpg?raw=true)
 <br>
-  <span style="font-size: 1.5em;">Yewen CAO</span>
+  <span style="font-size: 1.5em;">Yewen CAO</span><br>
 _started Aug 2024_  
 _research interests: wireless communications, signal processing, IoT_  
 _email: 2200201101@stu.hit.edu.cn_  
