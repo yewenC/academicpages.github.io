@@ -45,6 +45,7 @@ author_profile: true
 </div>
 
 </body>
+
 <div align=center><img src="https://github.com/yewenC/academicpages.github.io/blob/master/images/cyw.jpg?raw=true" width="300"></div>
 
 <br>
