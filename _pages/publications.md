@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-![](https://github.com/yewenC/academicpages.github.io/blob/master/images/cyw.jpg?raw=true)
+![](https://github.com/yewenC/academicpages.github.io/blob/master/images/cyw.jpg?raw=true=300×)
 <br>
   <span style="font-size: 1.5em;">Yewen CAO</span><br>
 _started Aug 2024_  
