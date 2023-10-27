@@ -5,9 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+
 
 ![](https://github.com/yewenC/academicpages.github.io/blob/master/images/cyw.jpg?raw=true)
 
@@ -59,8 +57,4 @@ _email: 2200201101@stu.hit.edu.cn_
 
 - B.E. in Communication Engineering, Harbin Institute of Technology (Sep. 2020-June 2024)
 
-{% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
